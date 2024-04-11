@@ -1,16 +1,14 @@
-<div align="center">
-  <img height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg"  />
+<div align="left">
+  <img height="300" src="https://66.media.tumblr.com/tumblr_lxr1jzgeRy1rn95k2o1_500.gif"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/monikasamuolyte" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -18,42 +16,26 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Thank you for visiting! I'm Monika 💃 I'm currently en route to being a data analyst 😇 <br>⚡ This is a place to share the projects I've done while on my journey. 🚢<br>In my free time I do pretty much anything - reading, consuming media (I've turned into quite a "gamer" lately!), travelling... You name it, I do it. 
+😂</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tools I've learned so far:</h3>
+
+###
+
+<p align="left">🧸 SQL; <br>🧸 Tableau; <br>🧸 Python; <br>🧸 I've also dabbled my hand in Google Sheets and all the Microsoft products (duh 
+😩), Photoshop (does anyone remember Tumblr? I used to be quite a pro at making gifs lol) and Looker. <br></p>
+
+###
+
+<h3 align="left">I appreciate you stumbling onto here! 💐</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="300" src="https://www.icegif.com/wp-content/uploads/thank-you-icegif-5.gif"  />
 </div>
 
 ###
